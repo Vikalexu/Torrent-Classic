@@ -1,0 +1,48 @@
+body {
+    font: 20px Consolas, Courier;
+}
+
+.footer {
+    padding: 10px;
+    margin-left: 9%;
+}
+
+.c {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#wrapper {
+    margin: 0 auto;
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+    background: #ebebeb;
+    width: 80vw;
+    border: 1px solid #474747;
+}
+
+.panel {
+    overflow-x: hidden;
+    border: 1px solid #ffffff;
+    background: #d4d4d4;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    width: 800px;
+}
+
+.logo {
+    margin-left: 10%;
+}
